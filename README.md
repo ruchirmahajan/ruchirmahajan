@@ -11,7 +11,9 @@
 <a href="https://linkedin.com/in/ruchirmahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruchirmahajan" height="30" width="40" /></a>
 <a href="https://fb.com/ruchirmahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ruchirmahajan" height="30" width="40" /></a>
 <a href="https://instagram.com/ruchirmahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruchirmahajan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ruchir mahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ruchir mahajan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/easyhealthyfitness/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruchirmahajan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCI9ALErMIHiRbYpZW2vka_Q/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ruchir mahajan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/EasyHealthyFitness" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ruchir mahajan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
