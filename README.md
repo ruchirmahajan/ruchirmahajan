@@ -27,6 +27,7 @@
 - [x] Be a Good person
 - [x] Help others to GROW
 - [ ] Travel the World
+- [ ] Set up a Studio
 - [ ] Have children
 - [ ] Death
 
