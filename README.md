@@ -1,9 +1,9 @@
-<h1 align="center">Hello World 👋🌍, I'm RUCHIR MAHAJAN</h1>
+<h1 align="center">Hello World 👋🌍, I am RUCHIR MAHAJAN</h1>
 <h3 align="center">A creative introvert on a journey to an extrovert explorer.</h3>
 
-- 🔭 I’m currently working on **my Profile Website**
+- 🔭 I am currently working on **my Profile Website**
 
-- 💬 Ask me about **Robotic Process Automation, Automation, UiPath, Social Media, Career Guidance, Fitness, Healthy Life Style.*
+- 💬 Ask me about **Robotic Process Automation, AI, Agentic Automation, Automation, UiPath, Social Media, Career Guidance, Fitness, Healthy Life Style.*
 
 - All of my projects are available at <link of Github Repo>
 
