@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ruchir Mahajan  
+# 👋 Hi, I am Ruchir Mahajan  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ruchirmahajan&style=flat-square&color=blue)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruchir%20Mahajan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ruchirmahajan)  
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me  
 
-✨ **Automation Solution Architect | 2× UiPath MVP | Python | Robocorp | Agentic AI | Intelligent Automation Leader**  
+✨ **Automation Solution Architect | 2× UiPath MVP | Python | Robocorp | Agentic AI | Intelligent Automation Leader | Digital Creator, YouTuber, PhotoBlogger & Spotify Artist**  
 
 I design and deliver **enterprise-scale automation ecosystems** that merge **AI, RPA, and low-code tools** to transform business operations. With **10+ years in IT (7+ in RPA & Intelligent Automation)**, I help organizations embrace the **future of Agentic AI and Intelligent Automation** while enabling teams and communities to grow.  
 
