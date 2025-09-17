@@ -26,7 +26,6 @@ I design and deliver **enterprise-scale automation ecosystems** that merge **AI,
 - 🧑‍🏫 Trained **650+ professionals & students** in RPA/UiPath via lectures, hackathons, and mentorship  
 - 🎤 **Speaker & Mentor** – active in global hackathons and community events  
 - ✍️ **Content Creator** – 131K+ monthly viewers on Threads, 10K+ YouTube views  
-- 🎶 **Spotify Artist** – exploring creativity through music  
 
 ---
 
@@ -66,6 +65,12 @@ I design and deliver **enterprise-scale automation ecosystems** that merge **AI,
 ![Ruchir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruchirmahajan&show_icons=true&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ruchirmahajan&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchirmahajan&layout=compact&theme=radical)  
+
+---
+
+## 🔥 GitHub Contribution Heatmap  
+
+![Ruchir's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=ruchirmahajan&theme=react-dark&hide_border=true)  
 
 ---
 
